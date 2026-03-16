@@ -43,6 +43,16 @@ I am a **Backend Architect** and **AI Automation Engineer** dedicated to buildin
 
 <br/>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hamzaanwaar4-source&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
 ## 🛠️ Specialized Tech Stack
 
 <div align="center">
@@ -75,14 +85,17 @@ I am a **Backend Architect** and **AI Automation Engineer** dedicated to buildin
 
 ---
 
-## 🏗️ GitHub Achievements
+## 🏗️ Contribution Journey
 
 <div align="center">
 
-| | | |
-| :---: | :---: | :---: |
-| <img src="https://github.com/ashutosh00710/github-readme-stats/raw/master/themes/tokyonight/achievements/pull-shark.png" width="100px"/><br/>**Pull Shark**<br/>Merging PRs | <img src="https://github.com/ashutosh00710/github-readme-stats/raw/master/themes/tokyonight/achievements/starstruck.png" width="100px"/><br/>**Starstruck**<br/>Repo Stars | <img src="https://github.com/ashutosh00710/github-readme-stats/raw/master/themes/tokyonight/achievements/galaxy-brain.png" width="100px"/><br/>**Galaxy Brain**<br/>Answered Discussions |
-| <img src="https://github.com/ashutosh00710/github-readme-stats/raw/master/themes/tokyonight/achievements/pair-extraordinaire.png" width="100px"/><br/>**Pair Extraordinaire**<br/>Co-authored Commits | <img src="https://github.com/ashutosh00710/github-readme-stats/raw/master/themes/tokyonight/achievements/quickdraw.png" width="100px"/><br/>**Quickdraw**<br/>Fast Merges | <img src="https://github.com/ashutosh00710/github-readme-stats/raw/master/themes/tokyonight/achievements/yolo.png" width="100px"/><br/>**YOLO**<br/>Merged without Review |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hamzaanwaar4-source/hamzaanwaar4-source/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hamzaanwaar4-source/hamzaanwaar4-source/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hamzaanwaar4-source/hamzaanwaar4-source/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+*(Note: Animation generates automatically every 24 hours)*
 
 </div>
 
@@ -105,15 +118,6 @@ I am a **Backend Architect** and **AI Automation Engineer** dedicated to buildin
 </div>
 
 <br/>
-
-## 🐍 Contribution Journey
-
-<div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/hamzaanwaar4-source/hamzaanwaar4-source/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<br/>
-
 ---
 
 <div align="center">
